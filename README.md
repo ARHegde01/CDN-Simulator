@@ -1,6 +1,6 @@
 ## CDN-Simulator 
 
-###The CDN Simulator is a simple project that aims to simulate the behavior of a Content Delivery Network (CDN) by caching files and serving them efficiently based on user requests. It provides a basic implementation of caching algorithms and allows you to explore caching strategies and evaluate their performance.
+### The CDN Simulator is a simple project that aims to simulate the behavior of a Content Delivery Network (CDN) by caching files and serving them efficiently based on user requests. It provides a basic implementation of caching algorithms and allows you to explore caching strategies and evaluate their performance.
 --- 
 
 ### Features
